@@ -1,6 +1,6 @@
 # README – Technical Report on the Sewerage System of Katowice
 
-## 📄 Overview
+##  Overview
 This file is a translation of a technical report valued at **185 million PLN**.  
 The document is a summary of a **25-page report** describing the technical condition of the sewerage system in the city of Katowice.  
 
