@@ -21,5 +21,5 @@ The application was **approved**, and the funding was successfully awarded.
 
 ---
 
-## 🎯 Key Takeaway
+##  Key Takeaway
 This document demonstrates expertise in **technical translation, environmental infrastructure, and compliance with EU standards**, supporting a major investment project in municipal sewerage systems.
